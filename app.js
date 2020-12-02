@@ -15,6 +15,8 @@ if ('serviceWorker' in navigator) {
     // registration failed
     console.log('Registration failed with ' + error);
   });
+} else {
+  console.log('NO serviceWorker');
 }
 
 // function for loading each image via XHR
