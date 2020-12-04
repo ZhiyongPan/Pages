@@ -1,6 +1,8 @@
 self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open('v1').then(function(cache) {
+
+      console.log('PZY --- install cache');
       return cache.addAll([
         '/sw-test/',
         '/sw-test/index.html',

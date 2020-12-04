@@ -23,11 +23,11 @@ var Gallery = { 'images' : [
     'credit': '<a href="https://www.flickr.com/photos/legofenris/">legOfenris</a>, published under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Attribution-NonCommercial-NoDerivs 2.0 Generic</a> license.'
   },
 
-  {
-    'name'  : 'PZY Test',
-    'alt' : 'this is pzy test.',
-    'url': 'https://inews.gtimg.com/newsapp_bt/0/12840758169/1000',
-    'credit': '<a href="https://www.flickr.com/photos/legofenris/">legOfenris</a>, published under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Attribution-NonCommercial-NoDerivs 2.0 Generic</a> license.'
-  },
+  // {
+  //   'name'  : 'PZY Test',
+  //   'alt' : 'this is pzy test.',
+  //   'url': 'https://inews.gtimg.com/newsapp_bt/0/12840758169/1000',
+  //   'credit': '<a href="https://www.flickr.com/photos/legofenris/">legOfenris</a>, published under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Attribution-NonCommercial-NoDerivs 2.0 Generic</a> license.'
+  // },
   
 ]};
